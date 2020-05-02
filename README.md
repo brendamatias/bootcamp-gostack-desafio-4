@@ -33,8 +33,9 @@ Agora você deve continuar desenvolvendo a aplicação que irá armazenar reposi
 ## 🔥 Funcionalidades
 
 Neste projeto, as rotas foram implementadas usando métodos HTTP:
-* `Listar os repositórios da sua API`: Deve ser capaz de criar uma lista de todos os repositórios que estão cadastrados na sua API com os campos title, techs e número de curtidas seguindo o padrão ${repository.likes} curtidas, apenas alterando o número para ser dinâmico.
-* `Curtir um repositório listado da API`: Deve ser capaz de curtir um item na sua API através de um botão com o texto Curtir e deve atualizar o número de likes na listagem no mobile.
+- **`Listar os repositórios da sua API`**: Deve ser capaz de criar uma lista de todos os repositórios que estão cadastrados na sua API com os campos **title**, **techs** e número de curtidas seguindo o padrão `${repository.likes} curtidas`, apenas alterando o número para ser dinâmico.
+
+- **`Curtir um repositório listado da API`**: Deve ser capaz de curtir um item na sua API através de um botão com o texto **Curtir** e deve atualizar o número de likes na listagem no mobile.
 
 ## ⚙️ Tecnologias
 
@@ -73,7 +74,7 @@ react-native run-android
 ---
 
 <h4 align="center">
-  “Não espere para plantar, apenas tenha paciência para colher”!
+  “Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!
 </h4>
 
 <p align="center">
